@@ -1,0 +1,3 @@
+Model,Sensitivity,Specificity
+Logistic Regression,0.6519,0.8493
+Random Forest,0.5054,0.9402
